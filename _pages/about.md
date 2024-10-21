@@ -13,6 +13,8 @@ I am fortunate to be advised by Prof. Anupam Chattopadhyay. Additionally, I gain
 
 Publications
 ======
+2024
+------
 
 Awards
 ======
