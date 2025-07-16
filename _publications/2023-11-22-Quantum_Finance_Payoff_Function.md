@@ -1,4 +1,4 @@
-------
+---
 title: "Optimized quantum circuit implementation of payoff function"
 collection: publications
 category: conferences
