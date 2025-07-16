@@ -1,4 +1,4 @@
-------
+---
 title: "Boosting the efficiency of quantum divider through effective design space exploration"
 collection: publications
 category: conferences
@@ -8,4 +8,4 @@ date: 2024-07-02
 venue: '2024 IEEE International Symposium on Circuits and Systems (ISCAS)'
 paperurl: 'https://ieeexplore.ieee.org/document/10557991'
 citation: 'S. Wang, E. Lim and A. Chattopadhyay, "Boosting the Efficiency of Quantum Divider through Effective Design Space Exploration," 2024 IEEE International Symposium on Circuits and Systems (ISCAS), Singapore, Singapore, 2024, pp. 1-5, doi: 10.1109/ISCAS58744.2024.10557991.'
-------
+---
