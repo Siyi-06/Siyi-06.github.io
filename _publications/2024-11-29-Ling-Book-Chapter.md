@@ -1,7 +1,7 @@
 ---
 title: "Efficient Depth Optimization in Quantum Addition and Modular Arithmetic with Ling Structure"
 collection: publications
-category: Book Chapter
+category: books
 permalink: /publication/2024-11-29-Ling-Book-Chapter
 excerpt: 'Improving the performance of quantum adder is an important technical challenge with major impact on the implementation of efficient, large-scale quantum computing. Continuing along this research direction, we propose a novel parallel-prefix quantum adder based on Ling expansion. We systematically explored classical structures for parallel-prefix adders assessing their suitability to be realized in quantum domain. Furthermore, Ling adder enforces Logical OR and large fan-out, which require innovative solutions. We addressed these challenges to realize the quantum Ling adder, which results in a T-depth of only O(log(n/2)). This represents a substantial improvement over the previous quantum adders based on parallel prefix structure, which require O(log n) T-depth. Based on the proposed adder, an efficient quantum modular adder is also demonstrated in this paper, further extending the applicability of our approach. We present extensive theoretical and simulation-based studies to establish our claims.'
 date: 2024-11-29
