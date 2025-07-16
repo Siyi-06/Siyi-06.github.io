@@ -15,6 +15,13 @@ Publications
 ======
 You can find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=xZ6Hd2IAAAAJ).
 
+Patent
+======
+* **Computer software copyright registration certificate** _(2021)_
+  * Prediction System for Flood Flow Basing on Deep Learning $V 1.0$
+  * **Wang Siyi**, Ma Yanxiang, Liu Bihao, Yu Dongsheng, Liu Yichi.
+  * Registration No.: $2021SR0664699$.
+
 Awards
 ======
 * **SWE-NTU Research Showcase, Third prize.**  _(2025)_
