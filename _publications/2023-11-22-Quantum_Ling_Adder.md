@@ -8,4 +8,4 @@ date: 2023-11-22
 venue: '2023 IFIP/IEEE 31st International Conference on Very Large Scale Integration (VLSI-SoC)'
 paperurl: 'https://ieeexplore.ieee.org/document/10321948'
 citation: 'S. Wang and A. Chattopadhyay, "Reducing Depth of Quantum Adder using Ling Structure," 2023 IFIP/IEEE 31st International Conference on Very Large Scale Integration (VLSI-SoC), Dubai, United Arab Emirates, 2023, pp. 1-6, doi: 10.1109/VLSI-SoC57769.2023.10321948.'
-------
+---
