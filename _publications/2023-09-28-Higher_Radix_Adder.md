@@ -1,5 +1,5 @@
 ---
-title: "A Higher radix architecture for quantum carry-lookahead adder"
+title: "A higher radix architecture for quantum carry-lookahead adder"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-28-Higher_Radix_Adder
