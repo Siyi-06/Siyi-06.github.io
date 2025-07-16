@@ -34,12 +34,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Coding**
+  * Python, Matlab, C, C++, Latex, C\#, Java, SQL, Qt, ......
+* **Quantum**
+  * Qiskit, Project Q, LIGHTER-R, DORCIS, YETI, ......
+* **Misc.**
+  * Academic research, teaching, training, Git, Latex typesetting and publishing.
 
 Publications
 ======
