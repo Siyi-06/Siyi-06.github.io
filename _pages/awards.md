@@ -8,57 +8,32 @@ redirect_from:
 ---
 
 {% include base_path %}
+* **SWE-NTU Research Showcase, Third prize.**  _(2025)_
+* **Best Student Presentation Award**  _(2024)_
+  * Awarded at the 2nd Annual Quantum Computer Cybersecurity Symposium (QCCS), Yale University.
+* **Best Paper Award in VLSI-SOC Conference**  _(2024)_
+  * First Author, in IFIP/IEEE International Conference on Very Large Scale Integration 2024.
+* **Korean National Cryptography Contest in the Cryptography Application, Grand Price.**  _(2023)_
+* **Nanyang Technological University Research Scholarship.**  _(2022)_
+* **China National Encouragement Scholarship.**  _(2020)_
+  * The only one in department.
+* **Huawei Scholarship**  _(2020)_
+  * Only awarded to two undergraduates and three doctoral students.
+* **Phoenix Contact Smart Technology Innovation Competition, Outstanding Award.**   _(2020)_
+  * Project: Comprehensive traceability control automation system basing on RFID technology.
+* **Global Mathematical Contest in Modeling, Meritorious Winner.**  _(2020)_
 
-Education
+Patent
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Computer software copyright registration certificate** _(2021)_
+  * Prediction System for Flood Flow Basing on Deep Learning $V 1.0$
+  * **Wang Siyi**, Ma Yanxiang, Liu Bihao, Yu Dongsheng, Liu Yichi.
+  * Registration No.: $2021SR0664699$.
 
-Work experience
+    
+Certification
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **NTUGSA Academic Sub-committee Member.** Awarded by NTU, Singapore.  _(2023)_
+* **HWG702 University Teaching for Teaching Assistants.** Awarded by NTU, Singapore.  _(2022)_
+* **IELTS.** Overall 7. _(2021)_
+* **GRE.** 335 + Writing 4.0. _(2021)_
