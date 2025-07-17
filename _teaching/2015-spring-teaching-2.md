@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "SC2079/CE3004/CZ3004: Multi-Disciplinary Project"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-2
+venue: "School of Computer Science and Engineering"
+date: 2023-02-16
+location: "Nanyang Technological University, Singapore"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
