@@ -7,4 +7,4 @@ venue: "HESL, SCSE"
 date: 2025-06-19
 location: "Nanyang Technological University, Singapore"
 ---
-([Download Slides](https://Siyi-06.github.io/2025-06-19-Oral-Defense.pptx))
+[Download Slides](https://Siyi-06.github.io/2025-06-19-Oral-Defense.pptx)
