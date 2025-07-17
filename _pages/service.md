@@ -9,56 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Event and Community Engagement
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Member, TEDxNTU _（2023）_
+* Volunteer, The ACM Web Conference _(2024)_
+* Academic Sub-committee Member, NTU Graduate Students Association (NTUGSA) _(2023–2025)_
 
-Work experience
+Peer Review Service
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Reviewer for **_ACM Transactions on Quantum Computing_**
+* Reviewer for **_Archives of Computational Methods in Engineering_**
+* Reviewer for **_EPJ Quantum Technology_**
+* Reviewer for **_Quantum Information Processing_**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
