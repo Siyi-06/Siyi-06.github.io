@@ -13,7 +13,7 @@ Event and Community Engagement
 ======
 * Member, TEDxNTU _（2023）_
 * Volunteer, The ACM Web Conference _(2024)_
-* Academic Sub-committee Member, NTU Graduate Students Association (NTUGSA) _(2023–2025)_
+* Member, NTU Graduate Students Association (NTUGSA) _(2023–2025)_
 
 Peer Review Service
 ======
