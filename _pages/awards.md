@@ -26,9 +26,9 @@ redirect_from:
 Patent
 ======
 * **Computer software copyright registration certificate** _(2021)_
-  * Prediction System for Flood Flow Basing on Deep Learning $V 1.0$
+  * Prediction System for Flood Flow Basing on Deep Learning _V 1.0_
   * **Wang Siyi**, Ma Yanxiang, Liu Bihao, Yu Dongsheng, Liu Yichi.
-  * Registration No.: $2021SR0664699$.
+  * Registration No.: _2021SR0664699_.
 
     
 Certification
