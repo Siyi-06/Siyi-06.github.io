@@ -44,11 +44,11 @@ Talks
 * **Beating Quantum Computing through Classical Attacks.**  _(2024)_
   * Presentation, 2nd Annual Quantum Computer Cybersecurity Symposium.
   * Yale University, USA
-  * Best Student Presentation Award. | [Download Slides](https://Siyi-06.github.io/files/2024-10-25-QCCS.pptx)
+  * Best Student Presentation Award. ([Download Slides](https://Siyi-06.github.io/files/2024-10-25-QCCS.pptx))
 * **Minimum Depth Quantum Modular Addition through Carry-Save Architecture.**  _(2024)_
   * Conference proceedings talk, IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC 2024).
   * Tanger, Morocco
-  * Best Paper Award. | [Download Slides](https://Siyi-06.github.io/files/2024-10-06-VLSISOC.pptx)
+  * Best Paper Award. ([Download Slides](https://Siyi-06.github.io/files/2024-10-06-VLSISOC.pptx))
 
 Teaching
 ======
