@@ -15,20 +15,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025/01-Now: Postdoctoral Researcher
+  * Nanyang Technological University
+  * Research Directions: Quantum Arithmetic, Quantum Cybersecurity.
+  * Supervisor: Prof. Anupam Chattopadhyay
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Intern
+  * Huawei Hong Kong Research Center (HKRC)
+  * Research Directions: Quantum Arithmetic, EDA.
+  * Supervisor: Dr. Bentian Jiang, Dr. Weihua Sheng
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Research Intern
+  * University of Hyogo, Japan
+  * Research Directions: Quantum Cryptanalysis.
+  * Supervisor: Prof. Takanori Isobe
   
 Skills
 ======
