@@ -11,6 +11,7 @@ redirect_from:
 
 Event and Community Engagement
 ======
+* Member, SWE@NTU _（2025）_
 * Member, TEDxNTU _（2023）_
 * Volunteer, The ACM Web Conference _(2024)_
 * Member, NTU Graduate Students Association (NTUGSA) _(2023–2025)_
