@@ -52,7 +52,18 @@ Talks
 
 Teaching
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* **SC2079/CE3004/CZ3004: Multi-Disciplinary Project.**  _(2023)_
+* **SC2207/CZ2007: Introduction To Databases.**  _(2022)_
 
 Service
 ======
+* **Peer Review Service**
+  * Reviewer for **_ACM Transactions on Quantum Computing_**
+  * Reviewer for **_Archives of Computational Methods in Engineering_**
+  * Reviewer for **_EPJ Quantum Technology_**
+  * Reviewer for **_Quantum Information Processing_**
+* **Event and Community Engagement**
+  * Member, TEDxNTU _（2023）_
+  * Volunteer, The ACM Web Conference _(2024)_
+  * Member, NTU Graduate Students Association (NTUGSA) _(2023–2025)_
+  * Member, SWE@NTU _（2025）_
